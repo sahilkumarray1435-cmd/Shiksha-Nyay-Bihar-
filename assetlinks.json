@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.edgeone.shikshanyaybihar24.twa",
+        "sha256_cert_fingerprints": ["51:CE:6B:FD:1C:B7:A2:07:CC:FD:B8:4A:03:38:F8:B8:05:43:22:E6:04:94:DA:44:A3:FE:17:4B:89:16:43:32"]
+      }
+    }]
