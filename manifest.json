@@ -1,0 +1,97 @@
+{
+  "id": "/",
+  "name": "Shiksha Nyay – Bihar",
+  "short_name": "Shiksha Nyay",
+  "description": "सुरक्षित रिपोर्टिंग • शिक्षा के लिए आवाज़ — Bihar सरकारी स्कूलों की समस्याएं सुरक्षित तरीके से रिपोर्ट करें।",
+  "start_url": "./shiksha-nyay-bihar-app-prototype.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1E36",
+  "theme_color": "#173A64",
+  "orientation": "portrait",
+  "lang": "hi-IN",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/IMG_20260905_103404.jpg",
+      "sizes": "720x1356",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "शिक्षा न्याय — बिहार स्प्लैश स्क्रीन (नया आइकन)"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115511.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "पहले सुरक्षा, फिर रिपोर्ट — सुरक्षा नियम"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115513.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "अपनी भूमिका चुनें — जूनियर/सीनियर रिपोर्टर"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115516.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "होम स्क्रीन — मुख्य कार्य"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115519.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "स्कूल चुनें — ज़िला, ब्लॉक, UDISE कोड"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115545.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "समस्या का प्रकार चुनें"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115553.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "समस्या का विवरण लिखें"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115557.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "सबूत जोड़ें — सुरक्षित फोटो दिशानिर्देश"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115600.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "रिपोर्ट देखें — जमा करने से पहले पुष्टि"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115602.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "रिपोर्ट सफलतापूर्वक जमा हुई"
+    },
+    {
+      "src": "screenshots/Screenshot_20260904_115606.jpg",
+      "sizes": "720x1608",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "मेरी रिपोर्ट — स्टेटस सूची"
+    }
+  ]
+}
